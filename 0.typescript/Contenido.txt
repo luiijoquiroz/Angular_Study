@@ -1,0 +1,4 @@
+
+1.- Como compilar un archivo de TypeScript(.tsc)
+2.- Archivo de configuracion de TypeScript
+
