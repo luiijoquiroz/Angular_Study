@@ -1,4 +1,14 @@
 
 1.- Como compilar un archivo de TypeScript(.tsc)
-2.- Archivo de configuracion de TypeScript
+2.- Archivo de configuracion de TypeScript.(tsconfig.json)
+3.- Excluir archivos que se van a compilar.(tsconfig.json) - "exclude": ["nombre_archivo"]
+4.- Template literales. ``
+5.- Funciones parámetros opcionales, obligatorios y por defecto. (Se recomienda ordenar, primero los obligatorios, luego los opcionales, los que son por defecto de ultimo).tsc
+6.- Funciones de flecha.
+7.- Destructuración de objetos y arreglos.
+
+
+
+
+
 
